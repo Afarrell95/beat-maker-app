@@ -30,3 +30,6 @@ n/a
 ## questions
 
 farrella95
+
+Deployed:
+https://afarrell95.github.io/beat-maker-app/
